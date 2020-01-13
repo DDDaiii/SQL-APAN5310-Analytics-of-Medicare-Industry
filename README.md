@@ -1,1 +1,1 @@
-# SQL-APAN5310-Analytics-of-Medicare-Industry
+# SQL-Analytics-of-Medicare-Industry
