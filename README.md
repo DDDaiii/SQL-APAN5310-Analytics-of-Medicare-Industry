@@ -4,7 +4,8 @@
 <h1>Introduction</h1>
   
 For our SQL final project, we were charged with the task of cleaning a messy dataset and transforming it into a live datasource that can support analytical applications. This project was meant to demonstrate the skills we learned throughout the semester and showcase our ability to support business decisions through data from non-uniform sources. The dataset we chose for this project was the Medicare Physician & Other Supplier NPI Aggregates data provided by the Centers for Medicare & Medicaid Services (CMS). (link provided below)
-https://www.kaggle.com/cms/medicare-physician-other-supplier-npi-aggregates
+
+<p>https://www.kaggle.com/cms/medicare-physician-other-supplier-npi-aggregates</p>
 
 
 <h1>Motivation & Research</h1>
